@@ -1,0 +1,12 @@
+.actor {
+  border-radius: 50%;
+}
+
+.actorelems {
+  width: 300px;
+}
+
+.actorline {
+  display: inline-block;
+  max-width: 500px;
+}
